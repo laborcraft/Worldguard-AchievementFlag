@@ -1,0 +1,7 @@
+name: Worldguard-AchievementFlag
+version: '${project.version}'
+main: github.scarsz.worldguard.achievementflags.AchievementFlag
+api-version: '1.20'
+authors: [Scarsz]
+website: https://scarsz.me
+depend: [ WorldGuard ]
